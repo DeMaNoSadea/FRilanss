@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 339 6" width="339" height="6">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #10c9c3 } 
+	</style>
+	<g id="skills">
+		<g id="content">
+			<g id="1">
+				<path id="rectangle1" class="shp0" d="M2 2L338 2L338 5L2 5L2 2Z" />
+			</g>
+		</g>
+	</g>
+</svg>
