@@ -79,3 +79,15 @@
     background-color: #e9e9e9;
     float: right;
 }
+.number{
+    width: 1366px;
+    height: 240px;
+    background-color: #10c9c3;
+}
+.number #portfolio img{
+    font-size: 48px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color: #ffffff;
+    font-family: "Pe";
+}
