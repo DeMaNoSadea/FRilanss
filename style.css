@@ -346,16 +346,8 @@ h1, h2, h3, h4, h5, h6{
     text-decoration: none;
 }
 
-.more:active{
+.more:active {
     background-color: #dddddd;
-}
-.check{
-/*    padding: 10px;*/
-    display: none;
-
-    height: 930px;
-    width: 100%;
-    background-color: aqua;
 }
 
 .t1{
